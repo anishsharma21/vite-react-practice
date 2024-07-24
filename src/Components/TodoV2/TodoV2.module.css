@@ -1,0 +1,10 @@
+.todoList {
+  width: 50%;
+  margin: 0 auto;
+  padding: 2rem;
+  border: 1px solid #ccc;
+}
+
+h1 {
+  font-size: 2rem;
+}

@@ -1,9 +1,9 @@
-import ExpenseTracker from "./Components/ExpenseTracker/ExpenseTracker";
+import Todo from "./Components/TodoV2/Todo";
 
 function App() {
   return (
     <>
-      <ExpenseTracker />
+      <Todo />
     </>
   );
 }
