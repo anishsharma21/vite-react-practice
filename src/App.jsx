@@ -1,9 +1,9 @@
-import Game from "./Game";
+import TodoList from "./Components/Todo/TodoList";
 
 function App() {
   return (
     <>
-      <Game />
+      <TodoList />
     </>
   );
 }
