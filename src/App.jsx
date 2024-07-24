@@ -1,9 +1,9 @@
-import Calculator from "./Components/Calculator/Calculator";
+import Weather from "./Components/WeatherAPI/Weather";
 
 function App() {
   return (
     <>
-      <Calculator />
+      <Weather />
     </>
   );
 }
