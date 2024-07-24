@@ -1,9 +1,9 @@
-import Experimental from "./Components/Practice_HTML_CSS/Experimental";
+import Login from "./Components/Login/Login";
 
 function App() {
   return (
     <>
-      <Experimental />
+      <Login />
     </>
   );
 }
