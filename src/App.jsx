@@ -1,9 +1,9 @@
-import Todo from "./Components/TodoV2/Todo";
+import Experimental from "./Components/Practice_HTML_CSS/Experimental";
 
 function App() {
   return (
     <>
-      <Todo />
+      <Experimental />
     </>
   );
 }

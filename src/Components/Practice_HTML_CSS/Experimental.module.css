@@ -1,0 +1,24 @@
+.profiles {
+  display: flex;
+  justify-content: stretch;
+}
+
+.profile {
+  padding: 10px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile img {
+  padding: 10px;
+  max-width: 20rem;
+  border-radius: 50%;
+}
+
+.profile h2 {
+  justify-content: center;
+  padding: 20px;
+  margin: 0 auto;
+}
