@@ -1,9 +1,9 @@
-import Weather from "./Components/WeatherAPI/Weather";
+import ExpenseTracker from "./Components/ExpenseTracker/ExpenseTracker";
 
 function App() {
   return (
     <>
-      <Weather />
+      <ExpenseTracker />
     </>
   );
 }
